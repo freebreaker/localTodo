@@ -1,6 +1,6 @@
 {
   "name": "todo",
-  "homepage": "https://freebreaker.github.io/Todo/reacttodo/todo/build",
+  "homepage": "https://freebreaker.github.io/localTodo/build",
   "version": "0.1.2",
   "private": true,
   "dependencies": {
