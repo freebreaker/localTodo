@@ -1,0 +1,23 @@
+{
+  "name": "todo",
+  "homepage": "https://freebreaker.github.io/Todo/reacttodo/todo/build",
+  "version": "0.1.2",
+  "private": true,
+  "dependencies": {
+    "normalize.css": "^6.0.0",
+    "react": "^15.5.3",
+    "react-dom": "^15.5.3",
+    "react-sortable": "^1.2.0",
+    "sortable.js": "^0.3.0",
+    "sortablejs": "^1.5.1"
+  },
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

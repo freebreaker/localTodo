@@ -1,0 +1,8 @@
+ body{
+    background:#1d555f;
+  }
+  #root{
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+  }

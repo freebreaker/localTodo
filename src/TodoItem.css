@@ -1,0 +1,33 @@
+.TodoItem{
+    display: flex;
+    background-color: #FFF;
+    margin-top: 10px;
+    padding:10px;
+    border-radius: 5px;
+    color: #757575;
+    transition: all 0.2s;
+ }
+
+ .TodoItem:hover{
+    transform: scale(1.02);
+}
+ .TodoItem>.title{
+  flex-grow: 1;
+  padding: 0 .5em;
+ }
+
+input[type=checkbox]{
+  margin-top: 4px;
+}
+
+
+ button{
+    outline: none;
+    border:none;
+    display: inline-block;
+    padding: 0 8px;
+    text-align: center;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 100;
+}
